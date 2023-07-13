@@ -1,6 +1,7 @@
 
 # Trabalho de Conclusão de Curso - Sistemas de Informação 
 Aplicação para Análise de Perfil comportamental no Processo de Recrutamento e Seleção
+Este é o README público, o repositório original está privado!
 ## Autor
 
 - [@Itallo Andrade](https://github.com/italloandrad)
